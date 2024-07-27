@@ -40,7 +40,7 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/heshan-jayathilaka-4a1b9825a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kushan-dissanayake-962b1625b" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/heshan-jayathilaka-4a1b9825a](https://www.linkedin.com/in/heshan-jayathilaka-4a1b9825a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/kushan-dissanayake-962b1625b" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kushan.dissanayake.9400?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kushandissanayake" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kushan_dissanayak?igsh=Yzh5Y3ZsbnJtdDEy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kushan_disa" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/fGsjwDgB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/fGsjwDgB" height="30" width="40" /></a>
